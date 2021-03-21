@@ -1,0 +1,29 @@
+{
+    "version": "1",
+    "information": {
+        "name": "plugin-example",
+        "displayName": "Plugin Example",
+        "description": "An example plugin for use with UCRM development and testing.",
+        "url": "https://github.com/ucrm-plugins/plugin-example",
+        "version": "1.0.0",
+        "ucrmVersionCompliancy": {
+            "min": "2.16.4",
+            "max": null
+        },
+        "unmsVersionCompliancy": {
+            "min": "1.0.0-beta.8",
+            "max": null
+        },
+        "author": "Ryan Spaeth"
+    },
+    "menu": [
+        {
+            "key": "Add-Ons",
+            "label": "Example Plugin",
+            "type": "admin",
+            "target": "iframe"
+        }
+    ],
+    "configuration": []
+}
+

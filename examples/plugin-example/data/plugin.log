@@ -1,0 +1,3 @@
+[2019-11-01 03:28:22.855709+00:00] [UCRM.INFO] Log file created!
+[]
+{"file":"C:\\Users\\rspaeth\\Documents\\PhpStorm\\Projects\\ucrm-plugin-sdk\\logging\\vendor\\mvqn\\ucrm-plugin-sdk\\src\\UCRM\\Common\\Log.php","line":440,"class":"UCRM\\Common\\Log","function":"info"}
