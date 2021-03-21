@@ -37,4 +37,5 @@
     "repositories": [
         { "name": "sdk", "type": "path", "options": { "symlink": false }, "url": "../*" }
     ]
+
 }
