@@ -15,7 +15,7 @@ use \DateTimeZone;
  * Class LogEntry
  *
  * @package MVQN\UCRM\Plugins
- * @author Ryan Spaeth <rspaeth@mvqn.net>
+ * @author Ryan Spaeth <rspaeth@spaethtech.com>
  *
  * @method string getTimestamp()
  * @method string getChannel()

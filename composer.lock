@@ -933,7 +933,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A semi-complex PHP-Doc Annotation parsing library, specifically designed for use in my own projects!",
@@ -977,7 +977,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A library for collections, specifically designed for use in my own projects!",
@@ -1030,7 +1030,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A library of common classes and functions, specifically designed for use in my own projects!",
@@ -1081,7 +1081,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A simple database library.",
@@ -1128,7 +1128,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A library for dynamic objects and methods.",
@@ -1179,7 +1179,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A simple REST Client library for interfacing with generic REST Endpoints.",
@@ -2957,7 +2957,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A common library for the UCRM Plugin SDK.",
@@ -2998,7 +2998,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A collection of composer plugins and scripts for UCRM Plugin development.",
@@ -3049,7 +3049,7 @@
             "authors": [
                 {
                     "name": "Ryan Spaeth",
-                    "email": "rspaeth@mvqn.net"
+                    "email": "rspaeth@spaethtech.com"
                 }
             ],
             "description": "A data library for the UCRM Plugin SDK.",

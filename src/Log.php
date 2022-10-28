@@ -22,7 +22,7 @@ use \ReflectionException;
  * Class Log
  *
  * @package MVQN\UCRM\Plugins
- * @author Ryan Spaeth <rspaeth@mvqn.net>
+ * @author Ryan Spaeth <rspaeth@spaethtech.com>
  * @final
  */
 final class Log
@@ -517,4 +517,3 @@ final class Log
 
 
 }
-
